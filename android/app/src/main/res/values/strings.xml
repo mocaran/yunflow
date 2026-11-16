@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">YunFlow</string>
+    <string name="title_activity_main">YunFlow</string>
+    <string name="package_name">com.yunflow.memory</string>
+    <string name="custom_url_scheme">com.yunflow.memory</string>
+</resources>
